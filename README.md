@@ -1,6 +1,6 @@
 👻
 
-##ghostunit
+**ghost**unit
 
 A digital product shop based in Portland, OR.
 
